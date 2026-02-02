@@ -15,3 +15,4 @@ A curated list of agentic coding tools for the CLI, similar to Claude Code.
 | **Codex-CLI** | [openai/codex](https://github.com/openai/codex) | OpenAI | Apache License 2.0 | Rust |
 | **GitHub Copilot** | [github/copilot-cli](https://github.com/github/copilot-cli) | OpenAI, Claude, Other | closed | Go |
 | **Kimi CLI** | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | Kimi K-Series | Apache 2.0 | Python, TypeScript |
+| **Qwen Code** | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Open-AI-Compat | Apache 2.0 | TypeScript |
