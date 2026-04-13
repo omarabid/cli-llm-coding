@@ -1,6 +1,6 @@
 # CLI Agentic Coding Tools
 
-A curated list of agentic coding tools for the CLI, similar to Claude Code.
+A list of CLI agentic coding tools. This list is curated to include Terminal-only (or first) CLI tools similar to Claude Code.
 
 | Tool | Project Link | Model back-ends | Licence | Language |
 |---|---|---|---|---|
