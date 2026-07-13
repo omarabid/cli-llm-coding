@@ -18,3 +18,4 @@ A list of CLI agentic coding tools. This list is curated to include Terminal-onl
 | **Qwen Code** | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | Open-AI-Compat | Apache 2.0 | TypeScript |
 | **Neovate** | [neovateai/neovate-code](https://github.com/neovateai/neovate-code) | Multiple | MIT | TypeScript |
 | **Grok Code CLI** | [build-with-groq/groq-code-cli](https://github.com/build-with-groq/groq-code-cli) | Grok | MIT | TypeScript |
+| **Pi** | [earendil-works/pi](https://github.com/earendil-works/pi) | Multiple | MIT | TypeScript |
